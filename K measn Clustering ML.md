@@ -1,0 +1,1 @@
+I implemented K-Means Clustering in a machine learning project using scikit-learn. This project demonstrates how to partition datasets into distinct clusters based on feature similarities, providing insights into data patterns and groupings. The implementation includes preprocessing, fitting the model, and visualizing the results to highlight the clusters.
